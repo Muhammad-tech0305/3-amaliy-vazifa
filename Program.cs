@@ -43,7 +43,7 @@ for (int i1 = 2; i1 <= 10; i1++)
         Console.Write(i1 + ", ");
     }
 }
-Console.WriteLine("ga teng.");
+Console.WriteLine(" ");
 
 // 3-dastur
 Console.WriteLine("< Bu \"DARAJA HISOBLASH\" dasturi >");
@@ -123,3 +123,4 @@ for (int i6 = 1; i6 < number6; i6++)
         }
     }
 }
+Console.WriteLine($"\n\'{number6}\' soni \'{divisors6}\' ta bo'luvchiga ega.");
